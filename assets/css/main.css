@@ -2613,7 +2613,7 @@
 
 		#main > section > .container {
 			width: 75%;
-			 padding: 1em 0 0.75em 0;
+			padding: 1em 0 0.75em 0;
 		}
 
 		#main > section:first-child {
@@ -2640,7 +2640,7 @@
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
+		padding: 1em 0 0.75em 0;
 	}
 
 		#footer .copyright {
